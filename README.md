@@ -7,7 +7,6 @@ Official code and video demonstrations for
   <img src="sotformer_architecture.jpg" width="95%">
 </p>
 
----
 
 ## 🌟 Overview
 
@@ -22,7 +21,7 @@ SOTFormer is a **constant-memory** online tracker built on Deformable-DETR with 
 3. **Unified Multi-Task Head**  
    – Jointly learns detection, identity consistency, and short-horizon trajectory prediction.
 
----
+
 
 # 🚀 Installation
 
