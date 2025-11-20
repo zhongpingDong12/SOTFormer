@@ -4,7 +4,7 @@ Official code and video demonstrations for
 **SOTFormer: A Constant-Memory Transformer with Ground-Truth-Primed Initialization for Online Single Object Tracking (CVPR 2026).**
 
 <p align="center">
-  <img src="figures/architecture.png" width="95%">
+  <img src="sotformer_architecture.jpg" width="95%">
 </p>
 
 ---
