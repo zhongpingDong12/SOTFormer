@@ -164,15 +164,7 @@ Optional overlays:
 # 📊 Qualitative Results
 
 <p align="center">
-  <img src="figures/scenerios2.1.jpg" width="95%">
-</p>
-
-<p align="center">
-  <img src="figures/scenerios2.2.jpg" width="95%">
-</p>
-
-<p align="center">
-  <img src="figures/scenerios2.3.jpg" width="95%">
+  <img src="scenerios2.jpg" width="95%">
 </p>
 
 These match the eight Mini-LaSOT attributes used in the paper:
